@@ -1,9 +1,11 @@
-## Hi there 👋
+ Hi there 👋
 
 ✨ I'm MakuYolo ✨
 
-🌱 I'm currently learning web programming. JavaScript, React and Python.
+🌱 I'm currently learning web programming. JavaScript, React and Python.<br>
 🔭 I like JavaScript and Python.
+
+🤔 I’m getting used to git and github :)
 
 <!--
 **MakuYolo/MakuYolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
